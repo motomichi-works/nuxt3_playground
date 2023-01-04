@@ -14,7 +14,7 @@ const pageName = 'hoge-page';
   </div>
 </template>
 
-<style scoped>
+<style scoped lang="scss">
 .hoge-page {
   font-size: 16px;
 }

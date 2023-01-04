@@ -11,7 +11,7 @@ const pageName = 'index-page';
   </div>
 </template>
 
-<style scoped>
+<style scoped lang="scss">
 .index-page {
   font-size: 16px;
 }
